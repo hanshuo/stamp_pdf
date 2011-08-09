@@ -1,0 +1,13 @@
+Prerequisites:
+
+  - python-cjson
+
+  - ps2pdf
+
+  - pdftk
+
+Usage:
+
+  python stamp_pdf.py conf.json in.pdf out.pdf
+
+  
